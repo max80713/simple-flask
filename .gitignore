@@ -1,7 +1,0 @@
-.Python
-.env
-bin/
-create-virtualenv.sh
-include/
-lib/
-pip-selfcheck.json
